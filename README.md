@@ -1,6 +1,7 @@
 # mis_app
 
-Waiming MIS App
+flutter开发移动端办公app 
+http://app.mymis.club/dn9j
 
 ## Getting Started
 
